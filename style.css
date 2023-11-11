@@ -1,5 +1,43 @@
-h2 {
+body {
 
-    color: blue;
+    background-color: #F5EDF0;
 
 }
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: 000000;
+    font-size: 40px;
+    padding-top: 20px;
+
+}
+
+article {
+    margin: auto;
+    background-color: #D9D2D4;
+    width: 1500px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+
+}
+
+img {
+    width: 700px;
+    height: 400px;
+    padding-left: 400px;
+    padding-right: 400px;
+
+}
+
+
